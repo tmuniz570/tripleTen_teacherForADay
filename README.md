@@ -2,6 +2,8 @@
 
 Repositório com o material de aula do Thiago Brandão para o projeto **"De Alunos para Alunos"**, desafiado por Luiza Costa na escola TripleTen.
 
+## - [Video da aula!](https://youtu.be/HuzdCvxkToc)
+
 ## Sobre a Aula
 
 Aula sobre **Lógica de Programação Aplicada** com exemplos em **Python** e **JavaScript**.
